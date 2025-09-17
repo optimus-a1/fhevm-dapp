@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { BrowserProvider, Contract } from "ethers";
 import abi from "@/abi/FHECounter.json";
 
